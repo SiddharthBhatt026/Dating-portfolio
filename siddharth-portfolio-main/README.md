@@ -15,7 +15,9 @@ Install this portfolio with npm
     
 ## Get A Glance
 
-![sample](https://i.postimg.cc/3r2yyNgF/image.png)
+![Preview](https://github.com/user-attachments/assets/a902228d-0dcf-4f12-9023-ef23ba65dd16)
+
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
